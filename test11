@@ -1,4 +1,0 @@
-#!/bin/sh
-
-mkdir test666
-echo 111 > 111.txt
